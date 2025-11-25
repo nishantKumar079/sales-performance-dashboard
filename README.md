@@ -6,7 +6,7 @@ This dashboard includes advanced bookmarks and DAX measures making it a great ex
 
 🚀 Key Features
 
-🔹 1. KPI Summary Cards
+🔹 KPI Summary Cards
 
 Provides a high-level snapshot of overall business performance:
 
@@ -89,6 +89,11 @@ These bookmarks make the dashboard more interactive and reduce page clutter.
 * Scatter plot
 * Visualizes profitability vs sales
 * Category-level legend for easy comparison
+
+8. Global Filters: Region & Year
+- Slicers placed at the top of the report
+- Allow users to filter the entire dashboard by Region and Year
+- Helps in dynamic analysis across visuals
 
 
 🛠️ DAX Measures Used
